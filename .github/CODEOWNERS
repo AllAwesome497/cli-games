@@ -1,0 +1,7 @@
+#Code owners
+@salifm
+@Seniru
+
+#Request review from author for modifications in .github directory
+.github/ @salifm
+.github/actions/ @salifm
